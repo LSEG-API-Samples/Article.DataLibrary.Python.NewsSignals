@@ -30,7 +30,7 @@ License(s):
 - An LSEG Workspace desktop license that has API access 
 
 
-[Development Environment](https://developers.lseg.com/en/api-catalog/eikon/eikon-data-api/tutorials#setting-up-a-python-development-environment)
+Development Environment
 
 - Tested with Python 3.12.14
 - Packages: [lseg-data](https://pypi.org/project/lseg-data/) [pandas](https://pypi.org/project/pandas/) [plotly](https://pypi.org/project/plotly/)
